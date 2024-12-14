@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnderWatts
 - 👀 I’m interested in ... Java, Python, Rest API's, Angular, & PostgreSQL
-- 🌱 I’m currently learning ... Python Rest API's using fastAPI, psycopg2, & PostgreSQL
+- 🌱 I’m currently learning ... Python Rest API's using fastAPI, psycopg, & PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... endersoft@hotmail.com is best.
 
